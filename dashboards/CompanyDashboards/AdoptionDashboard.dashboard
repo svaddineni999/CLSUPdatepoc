@@ -136,7 +136,7 @@
             <title>Last 30 Days</title>
         </components>
     </middleSection>
-    <owner>sreeni.pegagame99@gmail.com.int-sfp</owner>
+    <owner>sreeni.pegagame99@gmail.com.dev1-sfp</owner>
     <rightSection>
         <columnSize>Medium</columnSize>
         <components>
@@ -312,7 +312,7 @@
             <useReportChart>false</useReportChart>
         </components>
     </rightSection>
-    <runningUser>sreeni.pegagame99@gmail.com.int-sfp</runningUser>
+    <runningUser>sreeni.pegagame99@gmail.com.dev1-sfp</runningUser>
     <textColor>#000000</textColor>
     <title>Adoption Dashboard</title>
     <titleColor>#000099</titleColor>

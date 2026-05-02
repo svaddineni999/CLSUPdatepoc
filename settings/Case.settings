@@ -10,9 +10,9 @@
     <caseMergeInLightning>false</caseMergeInLightning>
     <closeCaseThroughStatusChange>false</closeCaseThroughStatusChange>
     <defaultCaseFeedLayoutOn>false</defaultCaseFeedLayoutOn>
-    <defaultCaseOwner>sreeni.pegagame99@gmail.com.int-sfp</defaultCaseOwner>
+    <defaultCaseOwner>sreeni.pegagame99@gmail.com.dev1-sfp</defaultCaseOwner>
     <defaultCaseOwnerType>User</defaultCaseOwnerType>
-    <defaultCaseUser>sreeni.pegagame99@gmail.com.int-sfp</defaultCaseUser>
+    <defaultCaseUser>sreeni.pegagame99@gmail.com.dev1-sfp</defaultCaseUser>
     <emailToCase>
         <enableE2CAttachmentAsFile>false</enableE2CAttachmentAsFile>
         <enableE2CDeduplicateAttachments>false</enableE2CDeduplicateAttachments>
